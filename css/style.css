@@ -92,3 +92,13 @@ img {
 .about {
   background-color: #26547C;
 }
+
+.catwrap {
+  overflow: hidden;
+}
+
+.tinycat {
+  float:left;
+  width: 33%;
+  padding: 10px;
+}
