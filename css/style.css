@@ -52,7 +52,7 @@ ul {
 .container {
   max-width: 900px;
   margin: auto;
-  color: white;
+  color: black;
 }
 
 .banner {
@@ -74,4 +74,21 @@ img {
   width: 40%;
   font-size: 25px;
   text-align: center;
+  color: white;
+}
+
+.cats, .products, .about {
+  padding: 30px 20px;
+}
+
+.cats {
+  background-color: #FFD166;
+}
+
+.products {
+  background-color: #F2F2F2;
+}
+
+.about {
+  background-color: #26547C;
 }
