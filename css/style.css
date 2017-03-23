@@ -102,3 +102,31 @@ img {
   width: 33%;
   padding: 10px;
 }
+
+.catwrap img {
+  border: 3px solid black;
+}
+
+.words {
+  overflow: hidden;
+}
+
+.about {
+  color: white;
+}
+
+.fun, .values, .meow {
+  float: left;
+  width: 33%;
+  text-transform: uppercase;
+  color: #EF476F;
+  text-align: center;
+}
+
+footer {
+  background-color: #06D6A0;
+  line-height: 50px;
+  height: 50px;
+  text-align: right;
+  padding: 0 20px;
+}
