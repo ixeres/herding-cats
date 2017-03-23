@@ -48,3 +48,30 @@ ul {
   display: inline-block;
   margin-right: 10px;
 }
+
+.container {
+  max-width: 900px;
+  margin: auto;
+  color: white;
+}
+
+.banner {
+  overflow: hidden;
+  background-color: #26547C;
+}
+
+img {
+  width: 100%;
+}
+
+.callout-image {
+  float: left;
+  width: 60%;
+}
+
+.callout-content {
+  float: left;
+  width: 40%;
+  font-size: 25px;
+  text-align: center;
+}
